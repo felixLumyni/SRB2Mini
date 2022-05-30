@@ -1,0 +1,9 @@
+Level XD
+Levelname = Purgatory
+TypeOfLevel = 1,2,4,8,16,32,64,128,256,512,1024,2048,4096
+Nozone = True
+WarningTitle = true
+Music = _VOID
+NextLevel = XD
+SkyNum = 1025
+Lua.Author = Zippy_Zolton, LeoTM
