@@ -1,4 +1,4 @@
-freeslot("sfx_buzzit") --?
+freeslot("sfx_buzzit")
 
 local smile = function(v, p)
 	if not (gamemap == 941) then return end
