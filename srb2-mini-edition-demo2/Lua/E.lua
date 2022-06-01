@@ -11,5 +11,3 @@ addHook("PlayerThink", function(p)
 	afterimagine.fuse = SpeedImage.value
 	end
 end)
-
---test
